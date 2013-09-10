@@ -236,6 +236,10 @@ body {
 	font-style: italic;
 }
 
+.reveal li {
+	margin:.5em 0 .5em 0;
+}
+
 .reveal ol,
 .reveal ul {
 	display: inline-block;
